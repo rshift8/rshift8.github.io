@@ -5,17 +5,17 @@ sortorder: 1
 
 Hello and welcome to my website! I recently finished my undergraduate degree at the [University of Toronto](https://www.utoronto.ca/) studying computer science and math. 
 
-I will be returning to uoft next fall to continue my studies as a graduate student of the [MScAC](https://mscac.utoronto.ca/) program. I'm interested in exploring optimizing existing machine learning methods because I believe any improvements (for example: algorithmic, architectural, or security) expands the possible applications of ML. 
+I'm currently a first year graduate student of the [MScAC](https://mscac.utoronto.ca/) program in the AI concentration. My research interests are, very broadly speaking, lying in the realm of AI performance after my previous research experience working on developing a secure and performant solution to the straggler problem in federated learning.
 
 
-## quick info about me
+## about me
 
 - I grew up in the Greater Toronto Area.
 - Some of my hobbies include volleyball, Yu-Gi-Oh!, Pokémon, and playing Teamfight Tactics.
 - My favourite TV show is [Andor](https://www.imdb.com/title/tt9253284/) (it's so peak). It's also where I first heard of this amazing quote:
 > "the axe forgets, but the tree remembers"
-- I try to do these [problems](https://leetcode.com/) but i sometimes struggle : (
-- I'm currently trying to grow out a mullet 🪮.
+- I try to do these [problems](https://leetcode.com/)
+- <s>I'm currently trying to grow out a mullet 🪮.</s> (I'm done growing it out!!)
 
 
 ## contact information
