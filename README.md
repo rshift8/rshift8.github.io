@@ -1,6 +1,6 @@
 # Personal Website - Source Code
 
-This repository contains the source code for deploying my personal website. The site can be found [here](https://sushimon.github.io).
+This repository contains the source code for deploying my personal website. The site can be found [here](https://rshift8.github.io).
 
 This was developed with [Pelican](http://docs.getpelican.com/en/stable/) using the [Flex](https://github.com/alexandrevicenzi/Flex) theme.
 
