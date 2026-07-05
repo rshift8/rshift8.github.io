@@ -1,7 +1,7 @@
 from datetime import datetime
 
 AUTHOR = "Richard Shi"
-SITEURL = "https://sushimon.github.io/"
+SITEURL = "https://rshift8.github.io/"
 # SITEURL = "http://127.0.0.1:8000"
 SITENAME = "Richard Shi's Website"
 SITETITLE = "Richard Shi"
@@ -34,12 +34,12 @@ MAIN_MENU = False
 PAGE_ORDER_BY = 'sortorder'
 
 SOCIAL = (
-    ("github", "https://github.com/sushimon"),
+    ("github", "https://github.com/rshift8"),
     ("linkedin", "https://www.linkedin.com/in/shi-richard/"),
     ("instagram", "https://www.instagram.com/rshi2vball/")
 )
 LINKS = (
-    ("resume", "https://github.com/sushimon/Richard-Shi-Resume/blob/main/Richard_Shi_resume.pdf"),
+    ("resume", "https://github.com/rshift8/Richard-Shi-Resume/blob/main/Richard_Shi_resume.pdf"),
 )
 
 COPYRIGHT_YEAR = datetime.now().year
