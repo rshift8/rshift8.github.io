@@ -3,19 +3,17 @@ URL:
 save_as: index.html
 sortorder: 1
 
-Hello and welcome to my website! I recently finished my undergraduate degree at the [University of Toronto](https://www.utoronto.ca/) studying computer science and math. 
+Hello and welcome to my website! I finished my undergraduate degree in 2025 at the [University of Toronto](https://www.utoronto.ca/) studying computer science and math.
 
-I'm currently a first year graduate student of the [MScAC](https://mscac.utoronto.ca/) program in the AI concentration. My research interests are, very broadly speaking, lying in the realm of AI performance after my previous research experience working on developing a secure and performant solution to the straggler problem in federated learning.
+I'm currently a second year graduate student of the [MScAC](https://mscac.utoronto.ca/) program in the AI concentration. As part of the MScAC, I'm doing my applied research internship at Huawei where I'm working on spatial intelligence and embodied AI. After my internship, I hope to return to doing more foundational machine learning research, including performance optimization and efficient ML, and overall more computer architecture-related/lower-level topics.
 
 
 ## about me
 
 - I grew up in the Greater Toronto Area.
 - Some of my hobbies include volleyball, Yu-Gi-Oh!, Pokémon, and playing Teamfight Tactics.
-- My favourite TV show is [Andor](https://www.imdb.com/title/tt9253284/) (it's so peak). It's also where I first heard of this amazing quote:
-> "the axe forgets, but the tree remembers"
-- I try to do these [problems](https://leetcode.com/)
-- <s>I'm currently trying to grow out a mullet 🪮.</s> (I'm done growing it out!!)
+- I try to do these [problems](https://leetcode.com/) and also these [ones](https://www.tensortonic.com).
+- I taught myself how to solve a Rubik's cube in a few hours.
 
 
 ## contact information
